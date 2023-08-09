@@ -1,5 +1,5 @@
 # TetraShell
-TetraShell is an all-in-one Tetris quicksave hacking tool created by Jean Cheng (jgcheng) and Saman Sahebi (saman63). You can use it to hack quicksaves while still making them seem legitimate and climb the leaderboard!
+TetraShell is an all-in-one Tetris quicksave hacking tool created by Jean Cheng (jgcheng) and Saman Sahebi (saman63). You can use it to hack quicksaves while still making them seem legitimate and climb the leaderboard! Note: This was an academic project from COMP211 System Fundementals 
 
 ## Usage
 TetraShell will first prompt you to enter the path of a valid quicksave to start hacking. Then, you can use any of the following commands.
